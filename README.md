@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjjeorgee
 - 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently building my portfolio 
 - 💞️ I’m looking to collaborate on SQL or Python projects 
 - 📫 How to reach me olaozeez@gmail.com
 
