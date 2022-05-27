@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis 
 - 🌱 I’m currently building my portfolio 
 - 💞️ I’m looking to collaborate on SQL or Python projects 
-- 📫 How to reach me jjjeorgetheminimalist@gmail.com
+- 📫 How to reach me oladimeji.olaniyan.mumini@gmail.com 
 
 <!---
 jjjeorgee/jjjeorgee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
