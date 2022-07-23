@@ -3,7 +3,7 @@
 -  I’m currently learning, and working on building my portfolio 
 -  I’m looking to collaborate on SQL or Python projects 
 -  How to reach me 
-> Email: [✉️](oladimeji.olaniyan.mumini@gmail.com)
+> Email: oladimeji.olaniyan.mumini@gmail.com
 > 
 
 <!---
